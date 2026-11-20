@@ -1,4 +1,4 @@
-# Mildly
+# Mildly (BETA STATE)
 
 A friendly client for AI services (Claude, ChatGPT, Gemini, OpenRouter, a local Ollama and
 others), with an optional personal server.
